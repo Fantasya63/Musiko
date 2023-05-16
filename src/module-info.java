@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author baloa
+ *
+ */
+module Musiko {
+}
